@@ -23,6 +23,7 @@ class MainActivity : ComponentActivity() {
             })
         }
     }
+
     private fun performLogin(username: String, password: String) {
         // Check if username and password are valid
         if (isValidCredentials(username, password)) {

@@ -1,5 +1,6 @@
 package com.example.sendpokeapp
 
+import androidx.activity.compose.setContent
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
